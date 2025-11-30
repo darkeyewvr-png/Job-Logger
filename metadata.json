@@ -1,0 +1,7 @@
+{
+  "name": "Job Completion Card Logger",
+  "description": "An application for logging daily job completion details, including client information, materials used, and job descriptions. It features an AI-powered description generator and an option to send job details via email.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
